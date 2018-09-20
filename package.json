@@ -4,12 +4,12 @@
   "description": "Node js services es6 project setup",
   "main": "server.js",
   "scripts": {
-    "build": "babel src -d dist",
-    "start": "node ./dist/server.js",
     "lint": "eslint .",
     "lint-fix": "eslint --fix . --ext .js",
     "test": "nyc mocha --compilers js:babel-core/register --require babel-polyfill --exit",
-    "report-coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
+    "report-coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "build": "babel src -d dist",
+    "start": "node ./dist/server.js"
   },
   "author": "srinivas kandukuri",
   "license": "MIT",
