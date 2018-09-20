@@ -3,7 +3,6 @@
 [![npm version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![codecov][codecov-image]][codecov-url]
-
 [![MIT License][license-image]][license-url]
 
 
