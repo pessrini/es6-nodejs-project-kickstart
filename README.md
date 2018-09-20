@@ -3,8 +3,7 @@
 [![npm version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![codecov][codecov-image]][codecov-url]
-[![dependencies Status][dependencies-image]][dependencies-url]
-[![devDependencies Status][devDependencies-image]][devDependencies-url]
+
 [![MIT License][license-image]][license-url]
 
 
@@ -104,8 +103,10 @@ $ node run build
 $ node start
 ```
 
-
-
+<!---
+[![dependencies Status][dependencies-image]][dependencies-url]
+[![devDependencies Status][devDependencies-image]][devDependencies-url]
+--->
 
 [devDependencies-url]:https://david-dm.org/srinivaskandukuri/es6-nodejs-project-kickstart/dev-status.svg
 [devDependencies-image]:https://david-dm.org/srinivaskandukuri/es6-nodejs-project-kickstart?type=dev
