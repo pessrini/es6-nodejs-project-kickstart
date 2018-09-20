@@ -2,11 +2,12 @@
 
 [![Build Status][travis-image]][travis-url]
 [![MIT License][license-image]][license-url]
+[![codecov][codecov-image]][codecov-url]
 
 
 
-
-
+[codecov-url]:https://codecov.io/gh/srinivasKandukuri/es6-nodejs-project-kickstart
+[codecov-image]: https://codecov.io/gh/srinivasKandukuri/es6-nodejs-project-kickstart/branch/master/graph/badge.svg
 
 [travis-url]:https://travis-ci.org/srinivasKandukuri/es6-nodejs-project-kickstart
 [travis-image]: https://travis-ci.org/srinivasKandukuri/es6-nodejs-project-kickstart.svg?branch=master
