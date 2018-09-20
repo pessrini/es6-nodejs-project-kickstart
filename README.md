@@ -1,8 +1,8 @@
 # es6-nodejs-project-kickstart
 
 [![Build Status][travis-image]][travis-url]
-[![MIT License][license-image]][license-url]
 [![codecov][codecov-image]][codecov-url]
+[![MIT License][license-image]][license-url]
 
 
 
