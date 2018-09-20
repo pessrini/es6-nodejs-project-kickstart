@@ -1,7 +1,7 @@
 {
   "name": "es6-nodejs-setup",
   "version": "1.0.0",
-  "description": "Node js services es6 project setup",
+  "description": "ES6 Node js project starter kit to write Services within a minute using latest tools",
   "main": "server.js",
   "scripts": {
     "lint": "eslint .",
@@ -11,7 +11,22 @@
     "build": "babel src -d dist",
     "start": "node ./dist/server.js"
   },
-  "author": "srinivas kandukuri",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srinivasKandukuri/es6-nodejs-project-kickstart.git"
+  },
+  "keywords": [
+    "REST services",
+    "eslint",
+    "javascript",
+    "nodejs",
+    "boilerplate",
+    "es6",
+    "es2015",
+    "babel",
+    "starter kit"
+  ],
+  "author": "srinivas kandukuri (https://srinivaskandukuri.github.io/profile/)",
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.1",
@@ -29,5 +44,9 @@
     "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.2.0",
     "nyc": "^13.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/srinivasKandukuri/es6-nodejs-project-kickstart/issues"
+  },
+  "homepage": "https://github.com/srinivasKandukuri/es6-nodejs-project-kickstart"
 }

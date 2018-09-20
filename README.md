@@ -1,8 +1,18 @@
 # es6-nodejs-project-kickstart
 
+[![npm version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![codecov][codecov-image]][codecov-url]
 [![MIT License][license-image]][license-url]
+
+## Installation
+
+This is a [Node.js](https://nodejs.org/en/) module available through the
+[npm registry](https://www.npmjs.com/).
+
+```bash
+$ npm install es6-nodejs-setup
+```
 
 
 ## Tools Used 
@@ -71,6 +81,9 @@ $ node start
 
 
 
+
+[npm-url]:https://www.npmjs.com/package/es6-nodejs-setup
+[npm-image]:https://badge.fury.io/js/es6-nodejs-setup.svg
 
 [codecov-url]:https://codecov.io/gh/srinivasKandukuri/es6-nodejs-project-kickstart
 [codecov-image]: https://codecov.io/gh/srinivasKandukuri/es6-nodejs-project-kickstart/branch/master/graph/badge.svg
